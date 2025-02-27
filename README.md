@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaya-015
+- 👋 Hi, I’m Jaya Gupta
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning AI/ML
 - 📫 reach me - jayagupta.4021@gmail.com
